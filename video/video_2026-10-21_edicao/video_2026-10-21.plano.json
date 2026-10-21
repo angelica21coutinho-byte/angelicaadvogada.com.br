@@ -24,6 +24,12 @@
    61.167
   ]
  ],
- "remover": [],
+ "remover": [
+  {
+   "inicio": 14.62,
+   "fim": 15.04,
+   "motivo": "correção jurídica: '30' (30% é periculosidade; insalubridade é 10/20/40%, art. 192 CLT) — aprovado pela advogada"
+  }
+ ],
  "sugestoes_retake": []
 }

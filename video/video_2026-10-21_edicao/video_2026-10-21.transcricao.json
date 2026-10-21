@@ -8,7 +8,7 @@
    "id": 1,
    "inicio": 0.356,
    "fim": 17.537,
-   "texto": "Peraí, deixa eu ver se eu entendi. Você trabalha com calor, barulho, produtos químicos e no seu holerite não tem adicional de salubridade? Vou te contar uma coisa. Salubridade é um adicional do seu salário que pode desversar entre 10, 20, 30 até 40% a mais no seu salário.",
+   "texto": "Peraí, deixa eu ver se eu entendi. Você trabalha com calor, barulho, produtos químicos e no seu holerite não tem adicional de salubridade? Vou te contar uma coisa. Salubridade é um adicional do seu salário que pode versar entre 10, 20, 30 até 40% a mais no seu salário.",
    "palavras": [
     {
      "p": "Peraí,",
@@ -233,7 +233,7 @@
      "prob": 1.0
     },
     {
-     "p": "desversar",
+     "p": "versar",
      "inicio": 12.836,
      "fim": 13.556,
      "prob": 1.0
@@ -253,18 +253,18 @@
     {
      "p": "20,",
      "inicio": 14.276,
-     "fim": 14.676,
+     "fim": 14.58,
      "prob": 1.0
     },
     {
      "p": "30",
-     "inicio": 14.676,
-     "fim": 14.996,
+     "inicio": 14.62,
+     "fim": 14.98,
      "prob": 1.0
     },
     {
      "p": "até",
-     "inicio": 14.996,
+     "inicio": 15.04,
      "fim": 15.236,
      "prob": 1.0
     },
