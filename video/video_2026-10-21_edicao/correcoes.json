@@ -1,0 +1,10 @@
+{
+  "substituir": [
+    {"de": "adicional de salubridade", "para": "adicional de insalubridade"},
+    {"de": "coisa. Salubridade", "para": "coisa. Insalubridade"},
+    {"de": "entre 10, 20, até", "para": "entre 10%, 20% até"},
+    {"de": "adicional à insalubridade", "para": "adicional de insalubridade"}
+  ],
+  "destaques": ["insalubridade", "40%", "EPI", "perícia", "holerite", "dois", "garantia"],
+  "remover_palavras": []
+}
