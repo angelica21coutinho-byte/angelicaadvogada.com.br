@@ -1,0 +1,17 @@
+{
+  "video": "video_2026-10-21_split.mp4",
+  "gancho": {"texto": "Tem insalubridade no seu holerite?", "inicio": 0, "fim": 2.0},
+  "textos": [{"texto": "Confira seu holerite", "inicio": 46.2, "fim": 49.3, "posicao": "topo"}],
+  "zooms": [
+    {"inicio": 7.7, "fim": 9.6, "intensidade": 1.15, "tipo": "corte"},
+    {"inicio": 29.1, "fim": 30.45, "intensidade": 1.15, "tipo": "corte"},
+    {"inicio": 44.8, "fim": 46.15, "intensidade": 1.15, "tipo": "corte"},
+    {"inicio": 57.4, "fim": 60.1, "intensidade": 1.15, "tipo": "suave"}
+  ],
+  "foco_x": 0.5, "foco_y": 0.3,
+  "legenda": true,
+  "barra_progresso": true,
+  "vinheta_abertura": false,
+  "vinheta_encerramento": true,
+  "cta": "Siga para mais conteúdo sobre seus direitos trabalhistas"
+}
