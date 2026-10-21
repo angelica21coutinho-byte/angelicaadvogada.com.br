@@ -1,0 +1,17 @@
+{
+  "nome": "Dra. Angélica Coutinho",
+  "arroba": "@angelicacoutinho.adv",
+  "cor_destaque": "#D4AF37",
+  "cor_texto": "#FFFFFF",
+  "cor_contorno": "#000000",
+  "cor_fundo": "#0B1F3A",
+  "fonte_legenda": "",
+  "fonte_textos": "",
+  "logo": "",
+  "cta_final": "Siga para mais conteúdo sobre seus direitos trabalhistas",
+  "estilo_legenda": "palavra",
+  "palavras_por_bloco": 3,
+  "caixa_alta": true,
+  "termos_destaque": ["CLT", "FGTS", "TST", "INSS"],
+  "vocabulario": ["rescisão indireta", "justa causa", "horas extras", "verbas rescisórias"]
+}
