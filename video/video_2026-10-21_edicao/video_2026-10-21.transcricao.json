@@ -1,0 +1,1108 @@
+{
+ "video": "/home/user/angelicaadvogada.com.br/video/video_2026-10-21.mp4",
+ "duracao": 61.627,
+ "modelo": "parakeet-tdt-0.6b-v3 (sherpa-onnx)",
+ "idioma": "pt",
+ "segmentos": [
+  {
+   "id": 1,
+   "inicio": 0.356,
+   "fim": 17.537,
+   "texto": "Peraí, deixa eu ver se eu entendi. Você trabalha com calor, barulho, produtos químicos e no seu holerite não tem adicional de salubridade? Vou te contar uma coisa. Salubridade é um adicional do seu salário que pode desversar entre 10, 20, 30 até 40% a mais no seu salário.",
+   "palavras": [
+    {
+     "p": "Peraí,",
+     "inicio": 0.356,
+     "fim": 0.676,
+     "prob": 1.0
+    },
+    {
+     "p": "deixa",
+     "inicio": 0.676,
+     "fim": 0.836,
+     "prob": 1.0
+    },
+    {
+     "p": "eu",
+     "inicio": 0.836,
+     "fim": 0.916,
+     "prob": 1.0
+    },
+    {
+     "p": "ver",
+     "inicio": 0.916,
+     "fim": 0.996,
+     "prob": 1.0
+    },
+    {
+     "p": "se",
+     "inicio": 0.996,
+     "fim": 1.076,
+     "prob": 1.0
+    },
+    {
+     "p": "eu",
+     "inicio": 1.076,
+     "fim": 1.156,
+     "prob": 1.0
+    },
+    {
+     "p": "entendi.",
+     "inicio": 1.156,
+     "fim": 1.556,
+     "prob": 1.0
+    },
+    {
+     "p": "Você",
+     "inicio": 1.556,
+     "fim": 1.796,
+     "prob": 1.0
+    },
+    {
+     "p": "trabalha",
+     "inicio": 1.796,
+     "fim": 2.116,
+     "prob": 1.0
+    },
+    {
+     "p": "com",
+     "inicio": 2.116,
+     "fim": 2.276,
+     "prob": 1.0
+    },
+    {
+     "p": "calor,",
+     "inicio": 2.276,
+     "fim": 2.756,
+     "prob": 1.0
+    },
+    {
+     "p": "barulho,",
+     "inicio": 2.756,
+     "fim": 3.316,
+     "prob": 1.0
+    },
+    {
+     "p": "produtos",
+     "inicio": 3.316,
+     "fim": 3.716,
+     "prob": 1.0
+    },
+    {
+     "p": "químicos",
+     "inicio": 3.716,
+     "fim": 4.116,
+     "prob": 1.0
+    },
+    {
+     "p": "e",
+     "inicio": 4.116,
+     "fim": 4.356,
+     "prob": 1.0
+    },
+    {
+     "p": "no",
+     "inicio": 4.356,
+     "fim": 4.436,
+     "prob": 1.0
+    },
+    {
+     "p": "seu",
+     "inicio": 4.436,
+     "fim": 4.596,
+     "prob": 1.0
+    },
+    {
+     "p": "holerite",
+     "inicio": 4.596,
+     "fim": 5.316,
+     "prob": 1.0
+    },
+    {
+     "p": "não",
+     "inicio": 5.316,
+     "fim": 5.476,
+     "prob": 1.0
+    },
+    {
+     "p": "tem",
+     "inicio": 5.476,
+     "fim": 5.636,
+     "prob": 1.0
+    },
+    {
+     "p": "adicional",
+     "inicio": 5.636,
+     "fim": 6.036,
+     "prob": 1.0
+    },
+    {
+     "p": "de",
+     "inicio": 6.036,
+     "fim": 6.116,
+     "prob": 1.0
+    },
+    {
+     "p": "salubridade?",
+     "inicio": 6.116,
+     "fim": 7.316,
+     "prob": 1.0
+    },
+    {
+     "p": "Vou",
+     "inicio": 7.876,
+     "fim": 8.276,
+     "prob": 1.0
+    },
+    {
+     "p": "te",
+     "inicio": 8.276,
+     "fim": 8.436,
+     "prob": 1.0
+    },
+    {
+     "p": "contar",
+     "inicio": 8.436,
+     "fim": 8.836,
+     "prob": 1.0
+    },
+    {
+     "p": "uma",
+     "inicio": 8.836,
+     "fim": 8.996,
+     "prob": 1.0
+    },
+    {
+     "p": "coisa.",
+     "inicio": 8.996,
+     "fim": 9.796,
+     "prob": 1.0
+    },
+    {
+     "p": "Salubridade",
+     "inicio": 9.796,
+     "fim": 10.676,
+     "prob": 1.0
+    },
+    {
+     "p": "é",
+     "inicio": 10.676,
+     "fim": 10.836,
+     "prob": 1.0
+    },
+    {
+     "p": "um",
+     "inicio": 10.836,
+     "fim": 10.996,
+     "prob": 1.0
+    },
+    {
+     "p": "adicional",
+     "inicio": 10.996,
+     "fim": 11.636,
+     "prob": 1.0
+    },
+    {
+     "p": "do",
+     "inicio": 11.636,
+     "fim": 11.796,
+     "prob": 1.0
+    },
+    {
+     "p": "seu",
+     "inicio": 11.796,
+     "fim": 11.956,
+     "prob": 1.0
+    },
+    {
+     "p": "salário",
+     "inicio": 11.956,
+     "fim": 12.436,
+     "prob": 1.0
+    },
+    {
+     "p": "que",
+     "inicio": 12.436,
+     "fim": 12.596,
+     "prob": 1.0
+    },
+    {
+     "p": "pode",
+     "inicio": 12.596,
+     "fim": 12.836,
+     "prob": 1.0
+    },
+    {
+     "p": "desversar",
+     "inicio": 12.836,
+     "fim": 13.556,
+     "prob": 1.0
+    },
+    {
+     "p": "entre",
+     "inicio": 13.556,
+     "fim": 13.876,
+     "prob": 1.0
+    },
+    {
+     "p": "10,",
+     "inicio": 13.876,
+     "fim": 14.276,
+     "prob": 1.0
+    },
+    {
+     "p": "20,",
+     "inicio": 14.276,
+     "fim": 14.676,
+     "prob": 1.0
+    },
+    {
+     "p": "30",
+     "inicio": 14.676,
+     "fim": 14.996,
+     "prob": 1.0
+    },
+    {
+     "p": "até",
+     "inicio": 14.996,
+     "fim": 15.236,
+     "prob": 1.0
+    },
+    {
+     "p": "40%",
+     "inicio": 15.236,
+     "fim": 16.116,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 16.116,
+     "fim": 16.276,
+     "prob": 1.0
+    },
+    {
+     "p": "mais",
+     "inicio": 16.276,
+     "fim": 16.756,
+     "prob": 1.0
+    },
+    {
+     "p": "no",
+     "inicio": 16.756,
+     "fim": 16.916,
+     "prob": 1.0
+    },
+    {
+     "p": "seu",
+     "inicio": 16.916,
+     "fim": 17.076,
+     "prob": 1.0
+    },
+    {
+     "p": "salário.",
+     "inicio": 17.076,
+     "fim": 17.537,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "inicio": 18.107,
+   "fim": 29.513,
+   "texto": "E esses adicionais é justamente pra quem trabalha com produtos químicos, barulho, calor excessivo. Aí a empresa te diz: não, eu não pago o adicional à insalubridade porque você já tem EPI.",
+   "palavras": [
+    {
+     "p": "E",
+     "inicio": 18.107,
+     "fim": 18.267,
+     "prob": 1.0
+    },
+    {
+     "p": "esses",
+     "inicio": 18.267,
+     "fim": 18.507,
+     "prob": 1.0
+    },
+    {
+     "p": "adicionais",
+     "inicio": 18.507,
+     "fim": 19.147,
+     "prob": 1.0
+    },
+    {
+     "p": "é",
+     "inicio": 19.147,
+     "fim": 19.307,
+     "prob": 1.0
+    },
+    {
+     "p": "justamente",
+     "inicio": 19.307,
+     "fim": 19.787,
+     "prob": 1.0
+    },
+    {
+     "p": "pra",
+     "inicio": 19.787,
+     "fim": 20.027,
+     "prob": 1.0
+    },
+    {
+     "p": "quem",
+     "inicio": 20.027,
+     "fim": 20.267,
+     "prob": 1.0
+    },
+    {
+     "p": "trabalha",
+     "inicio": 20.267,
+     "fim": 20.667,
+     "prob": 1.0
+    },
+    {
+     "p": "com",
+     "inicio": 20.667,
+     "fim": 20.907,
+     "prob": 1.0
+    },
+    {
+     "p": "produtos",
+     "inicio": 20.907,
+     "fim": 21.227,
+     "prob": 1.0
+    },
+    {
+     "p": "químicos,",
+     "inicio": 21.227,
+     "fim": 21.787,
+     "prob": 1.0
+    },
+    {
+     "p": "barulho,",
+     "inicio": 21.787,
+     "fim": 22.347,
+     "prob": 1.0
+    },
+    {
+     "p": "calor",
+     "inicio": 22.347,
+     "fim": 22.747,
+     "prob": 1.0
+    },
+    {
+     "p": "excessivo.",
+     "inicio": 22.747,
+     "fim": 23.947,
+     "prob": 1.0
+    },
+    {
+     "p": "Aí",
+     "inicio": 24.027,
+     "fim": 24.427,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 24.427,
+     "fim": 24.587,
+     "prob": 1.0
+    },
+    {
+     "p": "empresa",
+     "inicio": 24.587,
+     "fim": 25.067,
+     "prob": 1.0
+    },
+    {
+     "p": "te",
+     "inicio": 25.067,
+     "fim": 25.227,
+     "prob": 1.0
+    },
+    {
+     "p": "diz:",
+     "inicio": 25.227,
+     "fim": 25.867,
+     "prob": 1.0
+    },
+    {
+     "p": "não,",
+     "inicio": 25.867,
+     "fim": 26.187,
+     "prob": 1.0
+    },
+    {
+     "p": "eu",
+     "inicio": 26.187,
+     "fim": 26.347,
+     "prob": 1.0
+    },
+    {
+     "p": "não",
+     "inicio": 26.347,
+     "fim": 26.427,
+     "prob": 1.0
+    },
+    {
+     "p": "pago",
+     "inicio": 26.427,
+     "fim": 26.827,
+     "prob": 1.0
+    },
+    {
+     "p": "o",
+     "inicio": 26.827,
+     "fim": 26.907,
+     "prob": 1.0
+    },
+    {
+     "p": "adicional",
+     "inicio": 26.907,
+     "fim": 27.387,
+     "prob": 1.0
+    },
+    {
+     "p": "à",
+     "inicio": 27.387,
+     "fim": 27.547,
+     "prob": 1.0
+    },
+    {
+     "p": "insalubridade",
+     "inicio": 27.547,
+     "fim": 28.347,
+     "prob": 1.0
+    },
+    {
+     "p": "porque",
+     "inicio": 28.347,
+     "fim": 28.507,
+     "prob": 1.0
+    },
+    {
+     "p": "você",
+     "inicio": 28.507,
+     "fim": 28.667,
+     "prob": 1.0
+    },
+    {
+     "p": "já",
+     "inicio": 28.667,
+     "fim": 28.747,
+     "prob": 1.0
+    },
+    {
+     "p": "tem",
+     "inicio": 28.747,
+     "fim": 28.907,
+     "prob": 1.0
+    },
+    {
+     "p": "EPI.",
+     "inicio": 28.907,
+     "fim": 29.513,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "inicio": 30.27,
+   "fim": 50.408,
+   "texto": "O que tem uma coisa a ver com a outra? Só que só o EPI não basta. Ele precisa neutralizar os riscos e a empresa precisa fiscalizar o uso. E quem decide é a perícia. E se der positivo, o adicional reflete no seu 13º e no FGTS. Faz o favor pra mim, hein? Se você trabalha nessas condições, confere no seu holerite.",
+   "palavras": [
+    {
+     "p": "O",
+     "inicio": 30.27,
+     "fim": 30.35,
+     "prob": 1.0
+    },
+    {
+     "p": "que",
+     "inicio": 30.35,
+     "fim": 30.59,
+     "prob": 1.0
+    },
+    {
+     "p": "tem",
+     "inicio": 30.59,
+     "fim": 30.75,
+     "prob": 1.0
+    },
+    {
+     "p": "uma",
+     "inicio": 30.75,
+     "fim": 30.83,
+     "prob": 1.0
+    },
+    {
+     "p": "coisa",
+     "inicio": 30.83,
+     "fim": 30.99,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 30.99,
+     "fim": 31.029999999999998,
+     "prob": 1.0
+    },
+    {
+     "p": "ver",
+     "inicio": 30.99,
+     "fim": 31.07,
+     "prob": 1.0
+    },
+    {
+     "p": "com",
+     "inicio": 31.07,
+     "fim": 31.15,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 31.15,
+     "fim": 31.31,
+     "prob": 1.0
+    },
+    {
+     "p": "outra?",
+     "inicio": 31.31,
+     "fim": 31.71,
+     "prob": 1.0
+    },
+    {
+     "p": "Só",
+     "inicio": 31.71,
+     "fim": 31.87,
+     "prob": 1.0
+    },
+    {
+     "p": "que",
+     "inicio": 31.87,
+     "fim": 31.95,
+     "prob": 1.0
+    },
+    {
+     "p": "só",
+     "inicio": 31.95,
+     "fim": 32.11,
+     "prob": 1.0
+    },
+    {
+     "p": "o",
+     "inicio": 32.11,
+     "fim": 32.19,
+     "prob": 1.0
+    },
+    {
+     "p": "EPI",
+     "inicio": 32.19,
+     "fim": 32.75,
+     "prob": 1.0
+    },
+    {
+     "p": "não",
+     "inicio": 32.75,
+     "fim": 32.99,
+     "prob": 1.0
+    },
+    {
+     "p": "basta.",
+     "inicio": 32.99,
+     "fim": 33.63,
+     "prob": 1.0
+    },
+    {
+     "p": "Ele",
+     "inicio": 33.63,
+     "fim": 33.87,
+     "prob": 1.0
+    },
+    {
+     "p": "precisa",
+     "inicio": 33.87,
+     "fim": 34.35,
+     "prob": 1.0
+    },
+    {
+     "p": "neutralizar",
+     "inicio": 34.35,
+     "fim": 35.31,
+     "prob": 1.0
+    },
+    {
+     "p": "os",
+     "inicio": 35.31,
+     "fim": 35.47,
+     "prob": 1.0
+    },
+    {
+     "p": "riscos",
+     "inicio": 35.47,
+     "fim": 36.43,
+     "prob": 1.0
+    },
+    {
+     "p": "e",
+     "inicio": 36.43,
+     "fim": 36.75,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 36.75,
+     "fim": 37.07,
+     "prob": 1.0
+    },
+    {
+     "p": "empresa",
+     "inicio": 37.07,
+     "fim": 37.63,
+     "prob": 1.0
+    },
+    {
+     "p": "precisa",
+     "inicio": 37.63,
+     "fim": 38.11,
+     "prob": 1.0
+    },
+    {
+     "p": "fiscalizar",
+     "inicio": 38.11,
+     "fim": 38.75,
+     "prob": 1.0
+    },
+    {
+     "p": "o",
+     "inicio": 38.75,
+     "fim": 38.83,
+     "prob": 1.0
+    },
+    {
+     "p": "uso.",
+     "inicio": 38.83,
+     "fim": 39.23,
+     "prob": 1.0
+    },
+    {
+     "p": "E",
+     "inicio": 39.23,
+     "fim": 39.39,
+     "prob": 1.0
+    },
+    {
+     "p": "quem",
+     "inicio": 39.39,
+     "fim": 39.55,
+     "prob": 1.0
+    },
+    {
+     "p": "decide",
+     "inicio": 39.55,
+     "fim": 39.95,
+     "prob": 1.0
+    },
+    {
+     "p": "é",
+     "inicio": 39.95,
+     "fim": 40.11,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 40.11,
+     "fim": 40.19,
+     "prob": 1.0
+    },
+    {
+     "p": "perícia.",
+     "inicio": 40.19,
+     "fim": 40.91,
+     "prob": 1.0
+    },
+    {
+     "p": "E",
+     "inicio": 40.91,
+     "fim": 41.07,
+     "prob": 1.0
+    },
+    {
+     "p": "se",
+     "inicio": 41.07,
+     "fim": 41.23,
+     "prob": 1.0
+    },
+    {
+     "p": "der",
+     "inicio": 41.23,
+     "fim": 41.63,
+     "prob": 1.0
+    },
+    {
+     "p": "positivo,",
+     "inicio": 41.63,
+     "fim": 42.35,
+     "prob": 1.0
+    },
+    {
+     "p": "o",
+     "inicio": 42.35,
+     "fim": 42.51,
+     "prob": 1.0
+    },
+    {
+     "p": "adicional",
+     "inicio": 42.51,
+     "fim": 43.15,
+     "prob": 1.0
+    },
+    {
+     "p": "reflete",
+     "inicio": 43.15,
+     "fim": 43.63,
+     "prob": 1.0
+    },
+    {
+     "p": "no",
+     "inicio": 43.63,
+     "fim": 43.79,
+     "prob": 1.0
+    },
+    {
+     "p": "seu",
+     "inicio": 43.79,
+     "fim": 43.95,
+     "prob": 1.0
+    },
+    {
+     "p": "13º",
+     "inicio": 43.95,
+     "fim": 44.75,
+     "prob": 1.0
+    },
+    {
+     "p": "e",
+     "inicio": 44.75,
+     "fim": 44.91,
+     "prob": 1.0
+    },
+    {
+     "p": "no",
+     "inicio": 44.91,
+     "fim": 45.07,
+     "prob": 1.0
+    },
+    {
+     "p": "FGTS.",
+     "inicio": 45.07,
+     "fim": 45.95,
+     "prob": 1.0
+    },
+    {
+     "p": "Faz",
+     "inicio": 45.95,
+     "fim": 46.27,
+     "prob": 1.0
+    },
+    {
+     "p": "o",
+     "inicio": 46.27,
+     "fim": 46.35,
+     "prob": 1.0
+    },
+    {
+     "p": "favor",
+     "inicio": 46.35,
+     "fim": 46.67,
+     "prob": 1.0
+    },
+    {
+     "p": "pra",
+     "inicio": 46.67,
+     "fim": 46.75,
+     "prob": 1.0
+    },
+    {
+     "p": "mim,",
+     "inicio": 46.75,
+     "fim": 46.99,
+     "prob": 1.0
+    },
+    {
+     "p": "hein?",
+     "inicio": 46.99,
+     "fim": 47.23,
+     "prob": 1.0
+    },
+    {
+     "p": "Se",
+     "inicio": 47.23,
+     "fim": 47.39,
+     "prob": 1.0
+    },
+    {
+     "p": "você",
+     "inicio": 47.39,
+     "fim": 47.63,
+     "prob": 1.0
+    },
+    {
+     "p": "trabalha",
+     "inicio": 47.63,
+     "fim": 47.95,
+     "prob": 1.0
+    },
+    {
+     "p": "nessas",
+     "inicio": 47.95,
+     "fim": 48.35,
+     "prob": 1.0
+    },
+    {
+     "p": "condições,",
+     "inicio": 48.35,
+     "fim": 48.83,
+     "prob": 1.0
+    },
+    {
+     "p": "confere",
+     "inicio": 48.83,
+     "fim": 49.39,
+     "prob": 1.0
+    },
+    {
+     "p": "no",
+     "inicio": 49.39,
+     "fim": 49.47,
+     "prob": 1.0
+    },
+    {
+     "p": "seu",
+     "inicio": 49.47,
+     "fim": 49.79,
+     "prob": 1.0
+    },
+    {
+     "p": "holerite.",
+     "inicio": 49.79,
+     "fim": 50.408,
+     "prob": 1.0
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "inicio": 50.628,
+   "fim": 61.138,
+   "texto": "Guarda a ficha do EPI, fotos do local. E lembre-se, depois que você sair da empresa, são só dois anos pra você reclamar, hein? Porque, afinal, direito trabalhista não é favor, é garantia legal.",
+   "palavras": [
+    {
+     "p": "Guarda",
+     "inicio": 50.628,
+     "fim": 51.108,
+     "prob": 1.0
+    },
+    {
+     "p": "a",
+     "inicio": 51.108,
+     "fim": 51.189,
+     "prob": 1.0
+    },
+    {
+     "p": "ficha",
+     "inicio": 51.189,
+     "fim": 51.508,
+     "prob": 1.0
+    },
+    {
+     "p": "do",
+     "inicio": 51.508,
+     "fim": 51.668,
+     "prob": 1.0
+    },
+    {
+     "p": "EPI,",
+     "inicio": 51.668,
+     "fim": 52.228,
+     "prob": 1.0
+    },
+    {
+     "p": "fotos",
+     "inicio": 52.228,
+     "fim": 52.708,
+     "prob": 1.0
+    },
+    {
+     "p": "do",
+     "inicio": 52.708,
+     "fim": 52.869,
+     "prob": 1.0
+    },
+    {
+     "p": "local.",
+     "inicio": 52.869,
+     "fim": 53.349,
+     "prob": 1.0
+    },
+    {
+     "p": "E",
+     "inicio": 53.349,
+     "fim": 53.508,
+     "prob": 1.0
+    },
+    {
+     "p": "lembre-se,",
+     "inicio": 53.508,
+     "fim": 54.148,
+     "prob": 1.0
+    },
+    {
+     "p": "depois",
+     "inicio": 54.148,
+     "fim": 54.388,
+     "prob": 1.0
+    },
+    {
+     "p": "que",
+     "inicio": 54.388,
+     "fim": 54.548,
+     "prob": 1.0
+    },
+    {
+     "p": "você",
+     "inicio": 54.548,
+     "fim": 54.788,
+     "prob": 1.0
+    },
+    {
+     "p": "sair",
+     "inicio": 54.788,
+     "fim": 55.109,
+     "prob": 1.0
+    },
+    {
+     "p": "da",
+     "inicio": 55.109,
+     "fim": 55.268,
+     "prob": 1.0
+    },
+    {
+     "p": "empresa,",
+     "inicio": 55.268,
+     "fim": 55.668,
+     "prob": 1.0
+    },
+    {
+     "p": "são",
+     "inicio": 55.668,
+     "fim": 55.908,
+     "prob": 1.0
+    },
+    {
+     "p": "só",
+     "inicio": 55.908,
+     "fim": 56.069,
+     "prob": 1.0
+    },
+    {
+     "p": "dois",
+     "inicio": 56.069,
+     "fim": 56.308,
+     "prob": 1.0
+    },
+    {
+     "p": "anos",
+     "inicio": 56.308,
+     "fim": 56.549,
+     "prob": 1.0
+    },
+    {
+     "p": "pra",
+     "inicio": 56.549,
+     "fim": 56.708,
+     "prob": 1.0
+    },
+    {
+     "p": "você",
+     "inicio": 56.708,
+     "fim": 56.868,
+     "prob": 1.0
+    },
+    {
+     "p": "reclamar,",
+     "inicio": 56.868,
+     "fim": 57.428,
+     "prob": 1.0
+    },
+    {
+     "p": "hein?",
+     "inicio": 57.428,
+     "fim": 57.828,
+     "prob": 1.0
+    },
+    {
+     "p": "Porque,",
+     "inicio": 57.828,
+     "fim": 58.148,
+     "prob": 1.0
+    },
+    {
+     "p": "afinal,",
+     "inicio": 58.148,
+     "fim": 58.548,
+     "prob": 1.0
+    },
+    {
+     "p": "direito",
+     "inicio": 58.548,
+     "fim": 58.948,
+     "prob": 1.0
+    },
+    {
+     "p": "trabalhista",
+     "inicio": 58.948,
+     "fim": 59.509,
+     "prob": 1.0
+    },
+    {
+     "p": "não",
+     "inicio": 59.509,
+     "fim": 59.589,
+     "prob": 1.0
+    },
+    {
+     "p": "é",
+     "inicio": 59.589,
+     "fim": 59.748,
+     "prob": 1.0
+    },
+    {
+     "p": "favor,",
+     "inicio": 59.748,
+     "fim": 60.148,
+     "prob": 1.0
+    },
+    {
+     "p": "é",
+     "inicio": 60.148,
+     "fim": 60.308,
+     "prob": 1.0
+    },
+    {
+     "p": "garantia",
+     "inicio": 60.308,
+     "fim": 60.868,
+     "prob": 1.0
+    },
+    {
+     "p": "legal.",
+     "inicio": 60.868,
+     "fim": 61.138,
+     "prob": 1.0
+    }
+   ]
+  }
+ ]
+}

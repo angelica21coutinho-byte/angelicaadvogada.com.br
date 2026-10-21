@@ -1,0 +1,5 @@
+# Arquivos de vídeo/imagem da edição ficam só localmente
+video/**/*.mp4
+video/**/*.mov
+video/**/*.jpg
+video/**/*.wav

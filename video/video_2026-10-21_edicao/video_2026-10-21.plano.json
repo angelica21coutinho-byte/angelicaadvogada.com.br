@@ -1,0 +1,29 @@
+{
+ "video": "/home/user/angelicaadvogada.com.br/video/video_2026-10-21.mp4",
+ "duracao": 61.627,
+ "fps": 30,
+ "parametros": {
+  "ritmo": "normal",
+  "min_silencio": 0.45,
+  "respiro": 0.12,
+  "limiar_db": -45.8,
+  "ruido_fundo_db": -53.6,
+  "voz_db": -27.5
+ },
+ "manter": [
+  [
+   0.0,
+   7.433
+  ],
+  [
+   7.533,
+   29.533
+  ],
+  [
+   30.133,
+   61.167
+  ]
+ ],
+ "remover": [],
+ "sugestoes_retake": []
+}
